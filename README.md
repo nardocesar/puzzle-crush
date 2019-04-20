@@ -1,2 +1,2 @@
 # Puzzle Crush
-### A puzzle using Javascript just for fun.
+### A puzzle game using Javascript just for fun.
